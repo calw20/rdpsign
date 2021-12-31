@@ -1,7 +1,7 @@
 # rdpsign
 Remote Desktop Protocol (.rdp) File Signing Library & Command Line Application
 
-https://github.com/nfedera/rdpsign
+https://github.com/calw20/rdpsign
 
 
 In Window Server 2008 Microsoft added the rdpsign.exe utility.
@@ -15,7 +15,7 @@ This python script is the result of reverse engineering the rdpsign.exe internal
 
 ## Installation
 
-    sudo curl https://raw.githubusercontent.com/nfedera/rdpsign/master/rdpsign.py -o /usr/local/bin/rdpsign
+    sudo curl https://raw.githubusercontent.com/calw20/rdpsign/master/rdpsign.py -o /usr/local/bin/rdpsign
     sudo chmod a+rx /usr/local/bin/rdpsign
 
 
