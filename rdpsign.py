@@ -1,6 +1,6 @@
 # Remote Desktop Protocol (.rdp) File Signing Library
 # Copyright (C) 2021 Cal Wing
-# https://github.com/calw20/rdpsign2
+# https://github.com/calw20/rdpsign
 
 # This library is a basic refactor of Norbert Federa's rdpsign program
 #  https://github.com/nfedera/rdpsign
